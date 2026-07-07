@@ -4,6 +4,11 @@
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
 
+# D.eSystem 6.0.1 beta
+D.eSystem 6.0.1 beta is the first beta version of D.eSystem 6,it features a gui for the clock app and a redesigned D.eShell and this version is more stablke than alpha versions.
+
+D.eSystem 6.0.1 beta github page: https://github.com/D-electronics-scratch/D.eSystem-6.0.1-beta 
+
 # D.eSystem 6.0.6 alpha
 
 This version introduced the firts GUI on D.eSystem and was more stabke than 6.0.5 alpha.
