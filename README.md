@@ -3,6 +3,10 @@
 # Info about the versions
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
+# D.eSystem 6.0.9
+D.eSystem 6.0.9 features an important bug fix on the graphics and on the desktop,it also got a new icon design with D.UI 11.1.
+Find D.eSystem 6.0.9 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases#release-v.6.0.9
+
 # D.eSystem 6.0.8
 D.eSystem 6.0.8 is the first final release from D.eSystem 6,it features a gui,a terminal and a calculator, system info and clock.
 Find D.eSystem 6.0.8 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.0.8
