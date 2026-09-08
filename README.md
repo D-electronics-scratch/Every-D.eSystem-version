@@ -3,6 +3,10 @@
 # Info about the versions
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
+# D.eSystem 6.1.1
+D.eSystem 6.1.1 fixed a lot of bugs from D.eSystem 6.1.0 and it also removed the legacy BIOS fallback because future D.eSystem features will defenetly require the UEFi firmware.
+Find D.eSystem 6.1.0 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.1
+
 # D.eSystem 6.1.0.5
 D.eSystem 6.1.0.5 shows the coming big D.eSystem update,the update will be a file system, the file system of version 6.1.0.5 is not working and still in development.
 Find D.eSystem 6.1.0.5 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.0.5
