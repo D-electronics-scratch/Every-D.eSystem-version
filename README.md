@@ -3,6 +3,10 @@
 # Info about the versions
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
+# D.eSystem 6.1.2
+D.eSystem 6.1.2 introduces the first FAT32 file system support, it can already find a file in the directory with the test_1 function in the fileviewer. D.eSystem 6.1.2 also introduces a new design for the desktop with D.UI 12 and it brings back legacy BIOS fallback.
+find D.eSystem 6.1.2 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.2
+
 # D.eSystem 6.1.1
 D.eSystem 6.1.1 fixed a lot of bugs from D.eSystem 6.1.0 and it also removed the legacy BIOS fallback because future D.eSystem features will defenetly require the UEFi firmware.
 Find D.eSystem 6.1.0 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.1
