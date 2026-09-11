@@ -68,6 +68,10 @@ D.eSystem 5 was the biggest flop in D.electronics history,the flop had 2 reasons
 
 Reason 2 was that I shared D.eSystem 5 on reddit as a OS simulator OS prototype and gatekeeper said that I should delete D.eSystem or I should delete my posts,it got a lot of hate.
 
+Here is one of the reddit posts from D.eSystem 5: https://www.reddit.com/r/C_Programming/comments/1t2v6hy/comment/ojrun4t/?context=3
+
+Here is a seccond post from reddit from D.eSystem 5: https://www.reddit.com/r/C_Programming/comments/1sy7vfl/comment/ois7y0m/?context=3
+
 D.eSystem 5 was also the first D.eSystem written in C.
 
 D.eSystem 5 github page: https://github.com/D-electronics-scratch/D.eSystem-5
