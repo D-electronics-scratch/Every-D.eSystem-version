@@ -4,8 +4,8 @@
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
 # D.eSystem 6.1.3
-D.eSystem 6.1.3 improved the terminal (D.eShell) with a new workflow and design, D.eSystem 6 got with version 6.1.3 also some bugfixes.
-
+D.eSystem 6.1.3 improved the terminal (D.eShell) with a new workflow and design.
+D.eSystem 6 got with version 6.1.3 also some bugfixes.
 find D.eSystem 6.1.3 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.3
 
 # D.eSystem 6.1.2
