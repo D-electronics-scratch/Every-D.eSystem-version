@@ -3,6 +3,11 @@
 # Info about the versions
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
+# D.eSystem 6.1.5
+D.eSystem 6.1.5is the first D.eSystem which can rwad directories. D.eSystem 6.1.5 can also show the direcotry in the new explorer,the explorer has 2 start modes,the normal mode and the debug mode which
+keeps all the FAT32 tests from older D.eSystem versions like D.eSystem 6.1.4.
+find D.eSystem 6.1.5 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.5
+
 # D.eSystem 6.1.4
 D.eSystem 6.1.4 is the first D.eSystem which can read FAT32 files and show whats inside of these files.
 find D.eSystem 6.1.4 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.4
