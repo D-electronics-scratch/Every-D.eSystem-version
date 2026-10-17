@@ -3,6 +3,10 @@
 # Info about the versions
 In this repositorie is every version of D.eSystem,all versions under D.eSystem 6 were simlations and OS prototypes,every version under D.eSystem 5 was written in Python. Every version under D.eSystem 4 runs in a online compiler and is not on github.
 
+# D.eSystem 6.1.8
+D.eSystem 6.1.8 is the first D.eSystem which can write FAT32 files in a FAT32 image in the ram and read them. D.eSystem 6.1.8 also got a better design with D.UI 13.
+find D.eSystem 6.1.8 here: https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.8
+
 # D.eSystem 6.1.7
 D.eSystem 6.1.7 is the first D.eSystem with a own working file browser(Codename: Everest-Mount).
 find D.eSystem 6.1.7 here:https://github.com/D-electronics-scratch/all_D.eSystem_versions/releases/tag/v.6.1.7
